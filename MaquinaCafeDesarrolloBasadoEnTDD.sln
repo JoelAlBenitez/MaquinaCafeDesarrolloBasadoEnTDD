@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquinaCafe", "MaquinaCafe\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquinaCafeTest", "..\MaquinaCafeTest\MaquinaCafeTest.csproj", "{CCADD515-5309-4286-A96D-26F3A6887B86}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BDF200A7-6C23-4E1A-B779-BEDC60DB2323} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{CCADD515-5309-4286-A96D-26F3A6887B86} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF1882AF-BB4A-47ED-B306-2C9DDC3B7D27}

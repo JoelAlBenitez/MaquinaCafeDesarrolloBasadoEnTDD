@@ -35,7 +35,15 @@ La solución se encuentra dividida en dos proyectos principales:
 2. Ve al menú superior y selecciona **Prueba > Explorador de pruebas** (Test Explorer).
 3. Haz clic en **Ejecutar todas** (o utiliza el atajo `Ctrl + R, A`) para comprobar que todas las pruebas se encuentren en **verde**.
 
----
+----
 
-Autor: `Joel Alberto Benitez Varela
+## Evidencias de ejecucion del pipeline `ci-pipeline.yml`
+
+![Evidencia1](Evidencias/evidencia1.png)
+
+![Evidencia2](Evidencias/evidencia2.png)
+
+----
+
+Autor: `Joel Alberto Benitez Varela`
 Practica con fines educativos - Trabajo realizado como asignación de la asignatura de Ingenieria de Software del Instituto Tecnológico de las Américas ITLA
